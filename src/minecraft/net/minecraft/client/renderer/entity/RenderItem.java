@@ -699,6 +699,7 @@ public class RenderItem implements IResourceManagerReloadListener
         this.registerBlock(Blocks.wool, EnumDyeColor.SILVER.getMetadata(), "silver_wool");
         this.registerBlock(Blocks.wool, EnumDyeColor.WHITE.getMetadata(), "white_wool");
         this.registerBlock(Blocks.wool, EnumDyeColor.YELLOW.getMetadata(), "yellow_wool");
+        this.registerBlock(Blocks.farmland, "farmland");
         this.registerBlock(Blocks.acacia_stairs, "acacia_stairs");
         this.registerBlock(Blocks.activator_rail, "activator_rail");
         this.registerBlock(Blocks.beacon, "beacon");
